@@ -1,0 +1,10 @@
+.footer-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.clear-button {
+  background-color: pink;
+  border: none;
+  padding: 6px;
+}
